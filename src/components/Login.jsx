@@ -23,6 +23,7 @@ const Login=()=>{
     }
     return(
         <>
+            <h1>Welcome To The Banking Page</h1>
           <div className='flex items-center justify-center min-h-screen'>
        <div className='h-60 w-90 border-2 p-5'>
        <form onSubmit={handlelogin}>
